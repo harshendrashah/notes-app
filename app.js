@@ -63,4 +63,4 @@ yargs.command({
     }
 })
 
-yargs.argv
+yargs.parse()
